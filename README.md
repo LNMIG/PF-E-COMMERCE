@@ -5,8 +5,7 @@
 ----
 
 ## The Team:
-<p align="left">
- - [ ] https://github.com/LNMIG
+- https://github.com/LNMIG
 - https://github.com/federicoacuna
 - https://github.com/Jyankc
 - https://github.com/mutriaxx
@@ -14,4 +13,4 @@
 - https://github.com/Scerutti
 - https://github.com/brayanobispo
 - https://github.com/valenbenitez
-</p>
+
