@@ -6,7 +6,7 @@
 
 ## The Team:
 <p align="left">
-- https://github.com/LNMIG
+ - [ ] https://github.com/LNMIG
 - https://github.com/federicoacuna
 - https://github.com/Jyankc
 - https://github.com/mutriaxx
