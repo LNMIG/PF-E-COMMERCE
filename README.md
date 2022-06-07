@@ -50,6 +50,20 @@ In the case of an admin it will allow to:
 - see / add / update bracnhes
 - see / ban any existing admin or add new admins
 
+## What I learned and my participation
+- As part of the development team I learned:
+  - a new way to organize and how to process information in the Backend, creating functionalities that until now I did not know were possible to do,
+  - spread the code in several files to easy read it and find bugs or use the same path/route to GET different amount of information was mindblowing,
+  - keep each State in the Redux's Store updated each time a request was performed so one can see changes in no time was something revealing,
+  - use several files for actions and reducers in order to make it easier to follow the flow is something I will use from now on.
+- I participated:
+  - creating routes and their functionalities,
+  - some complex site's functionalities that required to be envolved in the Frontend as well as in the Backend, for example:
+    - any user can update information about Name, Lastname, Phone number and Birthdate: I developed the entire code for this action (Front and Back End),
+    - an admin can See, Add or Delete any category the store / products require: I developed the entire code for this action (Front and Back End),
+    - coded part of the seeder that allowed the e-commerce to show LATAM countries,
+    - did QA / QC controls when Pull Request where performed by others. This was one of the most satisfying processes I performed. 
+
 ## What we achieved
 ### Any User can...
 *	...log in using Google or its own email.
