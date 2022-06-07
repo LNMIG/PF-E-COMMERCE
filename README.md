@@ -58,7 +58,7 @@ In the case of an admin it will allow to:
   - use several files for actions and reducers in order to make it easier to follow the flow is something I will use from now on.
 - I participated:
   - creating routes and their functionalities,
-  - some complex site's functionalities that required to be envolved in the Frontend as well as in the Backend, for example:
+  - coding some complex site's functionalities that required to be envolved in the Frontend as well as in the Backend, for example:
     - any user can update information about Name, Lastname, Phone number and Birthdate: I developed the entire code for this action (Front and Back End),
     - an admin can See, Add or Delete any category the store / products require: I developed the entire code for this action (Front and Back End),
     - coded part of the seeder that allowed the e-commerce to show LATAM countries,
