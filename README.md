@@ -1,11 +1,9 @@
 # PF-E-commerce
-<p align="left">Spanish</p>
-<p align="left">Este es nuestro projecto final con el cual dimos por terminado el Bootcamp de HENRY y alcanzamos el grado de DESARROLLADORES FULL STACK.</p>
-<p align="left">El objetivo del e-commerce fue facilitar la venta de electrónica de alto nivel a través de una plataforma online ágil que nuestro cliente solicitó.</p>
+#### Spanish
+<p align="left">Este es nuestro projecto final con el cual dimos por terminado el Bootcamp de HENRY y alcanzamos el grado de DESARROLLADORES FULL STACK. El objetivo del e-commerce fue facilitar la venta de electrónica de alto nivel a través de una plataforma online ágil que nuestro cliente solicitó.</p>
 
-<p align="left">English</p>
-<p align="left">This is our final project which allowed us to finish HENRY's Bootcamp and to say that we are FULL STACK DEVELOPERS.</p>
-<p align="left">The target of this e-commerce was to make easer and faster selling high level electronics using an online platform.</p>
+#### English
+<p align="left">This is our final project which allowed us to finish HENRY's Bootcamp and to say that we are FULL STACK DEVELOPERS. The target of this e-commerce was to make easer and faster selling high level electronics using an online platform.</p>
 
 ### Así luce el e-commerce / The e-commerce looks like this
 ![2022-06-06 (4)](https://user-images.githubusercontent.com/96741070/172272812-6003d223-8029-4137-837c-a1fba0520e35.png)
