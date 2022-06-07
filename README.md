@@ -16,6 +16,10 @@
 ## You are viewing user's home
 ![2022-06-07 (6)](https://user-images.githubusercontent.com/96741070/172388845-08e981f4-b726-4a80-b58c-e5fa4bc3d628.png)
 
+## Website's link
+* Once you click in the link you should wait kind of 10 seconds until the site/data is loaded. If it does not work try refreshing the page several time. Then you can try this app as you wish as an user only.
+* Should you have any inconvenience, please let me know.
+* [Link to site](https://salchistore.vercel.app/)
 
 ## Development team
 - https://github.com/LNMIG
