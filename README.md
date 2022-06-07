@@ -70,28 +70,26 @@ In the case of an admin it will allow to:
 
 ### Any admin can...
 * ...see a list of orders and filter / sort / find any particular one.
+* ...see / update products' data.
+* ...see / update branches' data.
+* ...see / add / delete categories.
+* ...see / add / delete countries where the company has branches and/or sell products to.
 *	...manage the stock.
 *	...change any order's status and follow the life cicle.
-*	...change the status of any user to admin.
+*	...change the status of any user to admin or viceversa.
 *	...ban any admin or user.
 *	...notify any user via newsletter when a product is available.
 * ...see the history of all the emails sent via newsletter.
-*	...administrar los emails que se envían (frecuencia, templates de emails, etc...) y a qué usuarios para mejorar mi estrategia de marketing.
-*	...actualizar un producto: precio, fotos, descripción...
-*	...agregar o actualizar datos de una sucursal.
-*	...agregar o eliminar categorías de productos.
-*	...agregar o eliminar países de cobertura.
+*	...admin. emails sent (frecuency, templates, etc...) and which user or users are targeted.
 
-### Cualquier Invitado	puede... ( Any Guest can...
-*	...ver y moverse por el sitio del e-commerce.
-*	...refrescar la página, o irse y volver, y todavía tener su carrito de compras para no tener que buscar sus artículos nuevamente.
-*	...seguir editando el mismo carrito que tenía como invitado si se crea una cuenta para no perder los ítems ya seleccionados.
-*	...crear una cuenta para acceder a las ventajas de ser usuario.
+### Any Guest can...
+*	...see and move around the e-commerce's site.
+*	...refresh the page or go away and come back and still have the cart with products already selected.
+*	...edit or buy the same cart after loging in.
+*	...create an account and enjoy user's benefits.
 
-----
-
-## Funcionamiento / How it works
-* Clonar este repositorio, / Clone this repository,
-* Realizar npm install en la carpeta Api y en la de Client, / Run npm install in folder Api and Client,
-* Ejecutar npm start en la carpeta Api y en la de Client, / Run npm start in both folders Api and Client,
-* Abrir http://localhost:3000 en el navegador. / Open http://localhost:3000 in your browser
+## How it works
+* Clone this repository,
+* Run **npm install** in folders Api and Client,
+* Run **npm start** in both folders Api and Client,
+* Open http://localhost:3000 in your browser if it does not pops up automatically
