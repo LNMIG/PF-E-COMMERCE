@@ -28,10 +28,10 @@ export default function BranchCreateorModify ({ branch, countries }) {
         id: branch.id
       })
     }
-  }, [])
+  }, []) //eslint-disable-line
   useEffect(() => {
     handleErrors()
-  }, [branchData])
+  }, [branchData]) //eslint-disable-line
 
   function handleSubmit (e, branchData, branch) {
     e.preventDefault()
