@@ -27,38 +27,56 @@
 - https://github.com/brayanobispo
 - https://github.com/valenbenitez
 
+## Project's Goals
+- Build an E-commerce using **React, Redux, Node, Express and Sequelize - PostgreSQL**.
+- Use and practice all concepts learned in the soyHENRY's Bootcamp.
+- Learn better **coding practices**.
+- Learn and practice **GIT's workflow**, **SCRUM** and project management tools like **TRELLO**.
+- Use authentication processes and payment methods suchs as MercadoPago.
 
-## Lo que logramos / What we achieved
-### Cualquier Usuario	puede... / Any User can...
-*	...logearse usando Google o su propio email para acceder mas rápido y fácilmente.
-* ...recibir un email de confirmación de su compra para mantenerse informado sobre la misma.
-* ...recibir un email de notificación cuando la orden fue despachada para mantenerse informado sobre la misma.
-*	...ver el historial de órdenes previas para reveer las compras que hizo en el pasado.
-*	...ver los detalles de una orden que hizo en el pasado incluyendo los ítems comprados, con sus cantidades, fecha y hora de la compra para consultar detalles de sus productos y tener seguimiento.
-* ...desloguearse para proteger su cuenta.
-*	...obtener del searchbar que le muestre las opciones disponibles de productos mientras tipea.
-*	...agregar, ver y sacar productos de su wishlist para organizar sus futuras compras.
-*	...ser notificado de las ofertas disponibles del día para aprovechar oportunidades y gestionar mejor su presupuesto a través de newsletter.
-*	...suscribirse y/o des-suscribirse a la newsletter del e-commerce para evitar notificaciones indeseadas o recibirlas si las quiere.
-*	...modificar sus datos personales: nombres, apellidos, número de teléfono y fecha de nacimiento.
-*	...agregar direcciones de envío para los productos comprados.
-*	...agregar reviews a los productos que compró.
-*	...ver su lista de deseados (wishlist).
-*	...pagar utilizando la plataforma MercadoPagos.
-*	...puede chatear o encontrar información de sucursales via Whatsapp.
+## Statement
+The main idea was to create an application which would allow the user to:
+- see all products the store offers
+- see relevant information of each product
+- add products to they wishlist
+- buy products in simple steps
+- add information about themselves: addresses, payment methods, name/lastname/phone number
+- get newsletters from the store
+- be in touch with any branch by using whatsapp
 
-### Cualquier Administrador	puede... / Any admin can...
-* ...ver una lista de todas las órdenes para buscar alguna en particular y poder revisar sus detalles.
-*	... manejar el stock de distintas sucursales para indicar al usuario dónde puede retirar su compra.
-*	...cambiar el estado de una orden para poder administrar su ciclo de vida.
-*	...filtrar las órdenes por su estado (creada, procesada, cancelada, completa) para poder encontrarlas mas rápido.
-*	...hacer que un usuario se convierta en administrador para poder sumar integrantes al staff.
-*	...inhabilitar a un usuario o administrador, así no pueden volver a logearse.
-*	...notificar a los usuarios cuando un producto de su wishlist está en oferta para fomentar la venta.
-* ...enviar un correo con el link a un producto que antes no estaba disponible a los usuarios que lo tienen en su wishlist para fomentar la venta.
-* ...ver el historial de emails enviados por el newsletter para tener seguimiento y mejorarlas
+In the case of an admin it will allow to:
+- see / add / update each product the store should offer
+- see / add / delete categories for each product the store offers
+- see / add / update bracnhes
+- see / ban any existing admin or add new admins
+
+## What we achieved
+### Any User can...
+*	...log in using Google or its own email.
+* ...log out in order to protect its account.
+*	...add, see and remove any product from their wishlists.
+*	...use the searchbar to find out a list of products while typing.
+* ...get a confirmation email after bying products.
+* ...get an email after the order was despatched.
+*	...see history of orders.
+*	...see details of any order including any product bought, quantities and date.
+*	...subscribe or not to the newsletter.
+*	...modify their personal data: name, lastname, phone number and birthdate.
+*	...add new addresses for the products they buy.
+*	...add reviews for those products they bought.
+*	...see the wishlist.
+*	...pay using MercadoPagos' platform.
+*	...chat or find out information about branches via Whatsapp.
+
+### Any admin can...
+* ...see a list of orders and filter / sort / find any particular one.
+*	...manage the stock.
+*	...change any order's status and follow the life cicle.
+*	...change the status of any user to admin.
+*	...ban any admin or user.
+*	...notify any user via newsletter when a product is available.
+* ...see the history of all the emails sent via newsletter.
 *	...administrar los emails que se envían (frecuencia, templates de emails, etc...) y a qué usuarios para mejorar mi estrategia de marketing.
-*	...actualizar el stock.
 *	...actualizar un producto: precio, fotos, descripción...
 *	...agregar o actualizar datos de una sucursal.
 *	...agregar o eliminar categorías de productos.
