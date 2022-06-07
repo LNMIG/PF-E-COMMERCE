@@ -5,7 +5,7 @@
 #### English
 <p align="left">This is our final project which allowed us to finish HENRY's Bootcamp and to say that we are FULL STACK DEVELOPERS. The target of this e-commerce was to make easer and faster selling high level electronics using an online platform.</p>
 
-### Así luce el e-commerce / The e-commerce looks like this
+#### Así luce el e-commerce / The e-commerce looks like this
 ![2022-06-06 (4)](https://user-images.githubusercontent.com/96741070/172272812-6003d223-8029-4137-837c-a1fba0520e35.png)
 
 ----
