@@ -1,18 +1,23 @@
-# PF-E-commerce
-#### Spanish
-<p align="left">Este es nuestro projecto final con el cual dimos por terminado el Bootcamp de HENRY y alcanzamos el grado de DESARROLLADORES FULL STACK. El objetivo del e-commerce fue facilitar la venta de electrónica de alto nivel a través de una plataforma online ágil que nuestro cliente solicitó.</p>
+# PROJECT DEVELOPED  BY A TEAM - done at soyHenry's Bootcamp
 
-#### English
-<p align="left">This is our final project which allowed us to finish HENRY's Bootcamp and to say that we are FULL STACK DEVELOPERS. The target of this e-commerce was to make easer and faster selling high level electronics using an online platform.</p>
+## PF-E-commerce
+- This is our final project which allowed us to end soyHENRY's Bootcamp and say that we are FULL STACK DEVELOPERS.
+- The project's goal was to make easer and faster selling high level electronics using an online platform and multiply sells.
 
-#### Así luce el e-commerce / The e-commerce looks like this
+## The e-commerce's home looks like this
 ![2022-06-06 (4)](https://user-images.githubusercontent.com/96741070/172272812-6003d223-8029-4137-837c-a1fba0520e35.png)
 
+## You are viewing Details of a particular product
+![2022-06-07 (3)](https://user-images.githubusercontent.com/96741070/172387720-ad075a9d-c9b1-4a48-87f0-1055b62d6450.png)
 
-## Link al website / Website's link
-[Link to site](https://salchistore.vercel.app/)
+## You are viewing how to start your Session
+![2022-06-07 (5)](https://user-images.githubusercontent.com/96741070/172388080-bc164cbf-9efe-4d5b-8925-f7843d2a9699.png)
 
-## Equipo de desarrollo / Development team
+## You are viewing user's home
+![2022-06-07 (6)](https://user-images.githubusercontent.com/96741070/172388845-08e981f4-b726-4a80-b58c-e5fa4bc3d628.png)
+
+
+## Development team
 - https://github.com/LNMIG
 - https://github.com/federicoacuna
 - https://github.com/Jyankc
@@ -22,7 +27,6 @@
 - https://github.com/brayanobispo
 - https://github.com/valenbenitez
 
-----
 
 ## Lo que logramos / What we achieved
 ### Cualquier Usuario	puede... / Any User can...
