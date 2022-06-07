@@ -107,3 +107,6 @@ In the case of an admin it will allow to:
 * Run **npm install** in folders Api and Client,
 * Run **npm start** in both folders Api and Client,
 * Open http://localhost:3000 in your browser if it does not pops up automatically
+* Should you have any problem when running start:
+  - first check the file **index.js** in folder **api/**. Replace there **force** in line 37 with **force: false**
+  - if still does not work, delete **node_modules** and **package-lock.json** in both folders API and CLIENT and run npm install again.
