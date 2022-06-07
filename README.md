@@ -8,7 +8,9 @@
 #### Así luce el e-commerce / The e-commerce looks like this
 ![2022-06-06 (4)](https://user-images.githubusercontent.com/96741070/172272812-6003d223-8029-4137-837c-a1fba0520e35.png)
 
-----
+
+## Link al website / Website's link
+[Link to site](https://salchistore.vercel.app/)
 
 ## Equipo de desarrollo / Development team
 - https://github.com/LNMIG
