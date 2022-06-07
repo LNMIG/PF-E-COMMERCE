@@ -69,5 +69,7 @@
 ----
 
 ## Funcionamiento / How it works
-Puedes clonar este repositorio y luego realizar npm install tanto en la sección Api como en la Client. Luego ejecuta npm start en ambas secciones.
-You can clone this repository and then run npm install in Api and Client sections. After that run npm start in both sections
+* Clonar este repositorio, / Clone this repository,
+* Realizar npm install en la carpeta Api y en la de Client, / Run npm install in folder Api and Client,
+* Ejecutar npm start en la carpeta Api y en la de Client, / Run npm start in both folders Api and Client,
+* Abrir http://localhost:3000 en el navegador. / Open http://localhost:3000 in your browser
