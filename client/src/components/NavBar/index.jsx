@@ -30,10 +30,8 @@ const NavBar = () => {
   const user = useSelector(state => state.users.user)
   const toastToDisplay = useSelector(state => state.system.toast)
   const localCart = useSelector(state => state.cart.localItems).slice()
-  const cartCounter = useSelector(async (state) => {
-    const token = await state.users.token
-    // if (state.users.token === '') return state.cart.localItems.length
-    if (token === '') return state.cart.localItems.length
+  const cartCounter = useSelector(state => {
+    if (state.users.token === '') return state.cart.localItems.length
     return state.cart.items.length
   })
   const [modal, setModal] = useState(false)
