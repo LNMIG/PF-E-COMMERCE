@@ -38,6 +38,6 @@ conn.sync({ force }).then(() => {
   if (force)require('./src/utils/superSeeder')
 
   server.listen(port, () => {
-    console.log('Backend listening at 3001') // eslint-disable-line no-console
+    console.log(`Backend listening at ${port}`) // eslint-disable-line no-console
   })
 })
