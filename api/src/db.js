@@ -23,15 +23,15 @@ const sequelize =
           min: 1,
           idle: 10000
         },
-        ssl: process.env.DB_ENABLE_SSL,
         dialectOptions: {
-          ssl: process.env.DB_ENABLE_SSL && {
+          ssl: {
             require: true,
             // Ref.: https://github.com/brianc/node-postgres/issues/2009
             rejectUnauthorized: false
           },
           keepAlive: true
-        }
+        },
+        ssl: true
       })
       : new Sequelize(
             `postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/ecommerce`,
