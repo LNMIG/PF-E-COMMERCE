@@ -16,6 +16,9 @@
 ## You are viewing user's home
 ![2022-06-07 (6)](https://user-images.githubusercontent.com/96741070/172388845-08e981f4-b726-4a80-b58c-e5fa4bc3d628.png)
 
+## Website's link
+* Once you click in the link you should wait kind of 10 seconds until the site/data is loaded. If it does not work try refreshing the page several time. Then you can try this app as you wish as an user only.
+* Should you have any inconvenience, please let me know.
 
 ## Development team
 - https://github.com/LNMIG
@@ -107,3 +110,6 @@ In the case of an admin it will allow to:
 * Run **npm install** in folders Api and Client,
 * Run **npm start** in both folders Api and Client,
 * Open http://localhost:3000 in your browser if it does not pops up automatically
+* Should you have any problem when running start:
+  - first check the file **index.js** in folder **api/**. Replace there **force** in line 37 with **force: false**
+  - if still does not work, delete **node_modules** and **package-lock.json** in both folders API and CLIENT and run npm install again.
