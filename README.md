@@ -19,7 +19,6 @@
 ## Website's link
 * Once you click in the link you should wait kind of 10 seconds until the site/data is loaded. If it does not work try refreshing the page several time. Then you can try this app as you wish as an user only.
 * Should you have any inconvenience, please let me know.
-* [Link to site](https://my-pf-ecommerce.vercel.app/)
 
 ## Development team
 - https://github.com/LNMIG
